@@ -12,6 +12,12 @@ class _SplashPageState extends State<SplashPage> {
   @override
   Widget build(BuildContext context) {
     return Container(
+      height: 500,
+      width: 600,
+      color: Colors.red,
+      child: const Column(
+        children: [Text("GIT CHECK")],
+      ),
     );
   }
 }
