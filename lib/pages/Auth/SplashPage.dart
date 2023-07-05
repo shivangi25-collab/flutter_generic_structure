@@ -18,6 +18,7 @@ class _SplashPageState extends State<SplashPage> {
           Text("shivangi"),
         ],
       ),
+
     );
   }
 }
