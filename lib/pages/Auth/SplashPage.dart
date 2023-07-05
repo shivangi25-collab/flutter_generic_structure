@@ -16,8 +16,9 @@ class _SplashPageState extends State<SplashPage> {
       width: 600,
       color: Colors.red,
       child: const Column(
-        children: [Text("GIT CHECK"),Text("GIT CHECK"),],
+        children: [Text("GIT CHECK"),Text("GIT CHECK"),Text("krishna creat text 123"),],
       ),
+
     );
   }
 }
