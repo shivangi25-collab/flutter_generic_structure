@@ -15,7 +15,7 @@ class _SplashPageState extends State<SplashPage> {
       child: Column(
         children: [
           Text("krishna creat text 123"),
-          Text("shivangi 123"),
+
         ],
       ),
 
