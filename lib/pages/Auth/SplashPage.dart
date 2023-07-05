@@ -12,7 +12,7 @@ class _SplashPageState extends State<SplashPage> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text("krishna creat text"),
+      child: Text("krishna creat text 123"),
     );
   }
 }
