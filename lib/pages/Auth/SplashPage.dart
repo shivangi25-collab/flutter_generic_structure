@@ -18,6 +18,7 @@ class _SplashPageState extends State<SplashPage> {
           Text("shivangi 123"),
           Text("krishna 6666"),
           Text("krishna 6666fgjgfgsjfgjhgsdjdfh"),
+          Text("krishna and shivangi"),
         ],
       ),
 
